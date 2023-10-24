@@ -1,5 +1,7 @@
 # Employee Workforce Analytics Project Readme
 
+![framework](images/framework.png)
+
 ## Introduction
 
 This readme file provides an overview of the Employee Workforce Analytics project, including the data set, tools, and steps for analysis. The project aims to help the company understand its employee workforce better, identify trends, and make data-driven decisions to improve HR strategies.
