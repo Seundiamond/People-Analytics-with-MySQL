@@ -68,4 +68,14 @@ In Power BI, you can create various types of visualizations, including bar chart
 
 ## 6. Conclusion
 
-The Employee Workforce Analytics project aims to provide valuable insights to support HR decisions. 
+The Employee Workforce Analytics project aims to provide valuable insights to support HR decisions.
+
+- The Gender breakdown is categorized into 3; Male, female and none conforming, from the chart, the male is the highest, while the non-conforming is a small percentage.
+- For the race/ethnicity breakdown, we have about 7 different ethnicity, the whites here is the highest amount
+- The highest number of employees by age are within the range of 35-44
+- According to the chart, we have more employees working at the headquarters which is about 75%
+- Average length of employees who have been terminated is 10 years.
+- There is a  bit of gender balance of both male and female for each department, with the male gender been slightly higher by 2% for each.
+- Auditing department has the highest turnover rate.
+- The highest number of employees live in Ohio, while the lowest number live in Kentucky 
+- The employee count has increased overtime based between 2000 and 2020
