@@ -62,6 +62,8 @@ The following steps outline the process for conducting the employee workforce an
 
 ## 5. Visualizations
 
+![Dashboard](images/Dashboard.png)
+
 In Power BI, you can create various types of visualizations, including bar charts, line graphs, pie charts, and heat maps. Customize the visuals to fit the specific metrics and trends you want to showcase.
 
 ## 6. Conclusion
